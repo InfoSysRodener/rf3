@@ -11,7 +11,7 @@ const Model = props => {
     const three = useThree();
 
     let mouseX = 0;
-    let mouseY = 0;
+    let mouseY = 0; 
     let isDragging = false;
 
     // console.log(three);
