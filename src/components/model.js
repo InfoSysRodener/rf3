@@ -1,4 +1,4 @@
-import { useFrame, useLoader,useThree } from '@react-three/fiber';
+import { useFrame, useThree } from '@react-three/fiber';
 // import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader'
 import {  useRef } from 'react';
 import { useGLTF } from "@react-three/drei";
