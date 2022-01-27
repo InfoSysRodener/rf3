@@ -122,13 +122,13 @@
   ],
   "images": [
     {
-      "uri": "textures/Scene_-_Root_baseColor.png"
+      "uri": "textures/Scene_-_Root_baseColor.jpg"
     },
     {
-      "uri": "textures/Scene_-_Root_metallicRoughness.png"
+      "uri": "textures/Scene_-_Root_metallicRoughness.jpg"
     },
     {
-      "uri": "textures/Scene_-_Root_normal.png"
+      "uri": "textures/Scene_-_Root_normal.jpg"
     }
   ],
   "materials": [

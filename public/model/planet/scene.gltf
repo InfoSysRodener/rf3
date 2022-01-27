@@ -291,13 +291,13 @@
   ],
   "images": [
     {
-      "uri": "textures/material_metallicRoughness.png"
+      "uri": "textures/material_metallicRoughness.jpg"
     },
     {
-      "uri": "textures/material_normal.png"
+      "uri": "textures/material_normal.jpg"
     },
     {
-      "uri": "textures/material_2_normal.png"
+      "uri": "textures/material_2_normal.jpg"
     }
   ],
   "materials": [

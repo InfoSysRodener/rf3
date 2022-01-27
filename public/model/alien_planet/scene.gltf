@@ -210,13 +210,13 @@
   ],
   "images": [
     {
-      "uri": "textures/Planet_baseColor.png"
+      "uri": "textures/Planet_baseColor.jpg"
     },
     {
-      "uri": "textures/Planet_metallicRoughness.png"
+      "uri": "textures/Planet_metallicRoughness.jpg"
     },
     {
-      "uri": "textures/Planet_emissive.png"
+      "uri": "textures/Planet_emissive.jpg"
     },
     {
       "uri": "textures/Clouds_baseColor.png"

@@ -129,16 +129,16 @@
   ],
   "images": [
     {
-      "uri": "textures/DefaultMaterial_baseColor.jpeg"
+      "uri": "textures/DefaultMaterial_baseColor.jpg"
     },
     {
-      "uri": "textures/DefaultMaterial_metallicRoughness.png"
+      "uri": "textures/DefaultMaterial_metallicRoughness.jpg"
     },
     {
-      "uri": "textures/DefaultMaterial_emissive.jpeg"
+      "uri": "textures/DefaultMaterial_emissive.jpg"
     },
     {
-      "uri": "textures/DefaultMaterial_normal.png"
+      "uri": "textures/DefaultMaterial_normal.jpg"
     }
   ],
   "materials": [
