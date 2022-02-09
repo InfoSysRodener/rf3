@@ -16,8 +16,8 @@ const Model = props => {
 
     // console.log(three);
     useFrame(() => {
-        ref.current.rotation.x += 0.01;
-        ref.current.rotation.y += 0.01;
+        // ref.current.rotation.x += 0.01;
+        // ref.current.rotation.y += 0.01;
         mouseX = three.mouse.x * 5;
         mouseY = three.mouse.y * 5;
         // console.log(mouseX);

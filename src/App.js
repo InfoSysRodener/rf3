@@ -8,75 +8,19 @@ import Model from './components/model';
 const planetList = [
   {
      name:'Allien planet',
-     path:'/model/alien_planet/scene.gltf',
-     scale:2.5,
+     path:'/scene.gltf',
+     scale:0.5,
      details:{
         description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry'
      }
-  },
-  {
-    name:'Lava planet',
-    path:'/model/lava_planet/scene.gltf',
-    scale:2.5,
-    details:{
-      description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
-    }
-  },
-  {
-    name:'Phoenix planet',
-    path:'/model/phoenix_planet/scene.gltf',
-    scale:2,
-    details:{
-      description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
-    }
-  },
-  {
-    name:'planet_serendip',
-    path:'/model/planet_serendip/scene.gltf',
-    scale:3,
-    details:{
-      description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
-   }
-  },
-  {
-    name:'planet',
-    path:'/model/planet/scene.gltf',
-    scale:0.03,
-    details:{
-      description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
-    }
-  },
-  {
-    name:'star of sun',
-    path:'/model/star_of_sun/scene.gltf',
-    scale:0.1,
-    details:{
-      description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
-    }
-  },
-  {
-    name:'the sun',
-    path:'/model/the_sun/scene.gltf',
-    scale:4,
-    details:{
-      description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
-    }
-  },
-  // {
-  //   name:'various planets',
-  //   path:'/model/various_planets/scene.gltf',
-  //   scale:1,
-  //   details:{
-  //       description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
-  //   }
-  // }
+  }
 ]
 
 
 const Splash = () => {
     return (
       <div className="splashScreen">
-          <h1 style={{ fontSize:'3em'}}>The Planets</h1>
+          {/* <h1 style={{ fontSize:'3em'}}>Tutorial guide to join in BF football community</h1> */}
           <h2>Loading....</h2>
       </div>
     )
